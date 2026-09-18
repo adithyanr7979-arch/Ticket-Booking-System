@@ -27,7 +27,7 @@ Open database.py and check:
 
     DB_HOST = "localhost"
     DB_USER = "root"
-    DB_PASSWORD = "adithyan"
+    DB_PASSWORD = "YOUR_MYSQL_PASSWORD"
 
 Change DB_PASSWORD if your MySQL root password is different.
 
