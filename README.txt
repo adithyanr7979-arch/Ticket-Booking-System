@@ -60,3 +60,7 @@ When a ticket is cancelled, the seats are returned to the train.
 ## Important
 
 This is a local student project. The MySQL password is stored in database.py for simplicity. For a real application, use environment variables or a secrets manager.
+
+## GUI Screenshot
+
+![Railway Ticket Booking System GUI](Images/gui.png)
